@@ -28,6 +28,9 @@ According to these clichés, an adaptive sharpening can be implemented in such a
 Accordingly, apply the image sharpening in both non-horizontal and adaptive shapes to the images Im132 to Im134 and compare the result.
 
 IM132:
+![Im132](https://user-images.githubusercontent.com/89314766/154647121-e8113556-bdfb-4c30-9653-8d34f8704d94.png)
+![Uploading Im133.png…]()
+
 
 IM133:
 
