@@ -27,6 +27,10 @@ The above stereotype can be considered 1/16 of the total stereotypes
 According to these clichés, an adaptive sharpening can be implemented in such a way that we apply all these clichés to any point of the source image and add the result of all filters that are larger than a threshold. Finally, we add the result to the main image.
 Accordingly, apply the image sharpening in both non-horizontal and adaptive shapes to the images Im132 to Im134 and compare the result.
 
+Abstract)
+
+In this mini-project, we will strengthen the edges for a number of gray images (grayscale) by using a suitable Box Filter. For this purpose, two unsharp masking algorithms and Laplacein have been used. In the unsharp masking algorithm, simple mean smoothing filter methods, weighted mean smoothing filter and medium filter with sizes such as 3 × 3, 5 × 5, 7 × 7 and 9*9*9 are used. In the Laplacein method, we try to sharpen the edges of three grayscale images in two ways: non-conformity with one stereotype and conformity with eight stereotypes. We use Matlab to implement this project.
+
 # Persian:
 سوال)
 
@@ -53,5 +57,9 @@ Accordingly, apply the image sharpening in both non-horizontal and adaptive shap
 با توجه به این کلیشه‌ها می‌توان یک تیزکردن وفقی را به این ترتیب پیاده‌سازی کرد که به هر نقطه از تصویر مبدا تمام این کلیشه‌ها را اعمال کرده و حاصل تمام فیلترهایی که از یک آستانه بزرگتر باشند را با هم جمع می‌کنیم. در آخر حاصل را به تصویر اصلی اضافه می‌کنیم.
 بر این اساس، تیزکردن تصویر به دو شکل غیروفقی و وفقی را بر روی تصاویر Im132 تا Im134 اعمال کرده و نتیجه را با هم مقایسه کنید.
 
+خلاصه)
 
-Hesamoddin
+بناست در این مینی پروژه با استفاده از Box Filter مناسب، برای تعدادی تصویر خاکستری (grayscale) لبه ها را تقویت کنیم. بدین منظور از دو الگوریتم نقاب گذاری غیر تیز و لاپلاسین استفاده شده است. در الگوریتم نقاب گذاری غیر تیز از روش های فیلتر هموار ساز میانگین ساده، فیلتر هموار ساز میانگین وزن دار و فیلتر میانه با اندازه هایی همچون  3×3 ، 5×5 ، 7×7 و 9×9 استفاده شده است. در روش لاپلاسین به دو روش غیر وفقی با یک کلیشه و وفقی با 8 کلیشه، سعی در تیز کردن لبه های سه تصویر  خاکستری (grayscale) داریم. برای پیاده سازی این پروژه از Matlab استفاده می نماییم.
+
+
+Hesamoddin Hosseini
