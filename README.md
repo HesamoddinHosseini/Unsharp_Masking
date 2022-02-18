@@ -39,6 +39,9 @@ IM133:
 
 IM134:
 
+![Im134](https://user-images.githubusercontent.com/89314766/154647530-135474bb-56a1-48af-8c51-818e20eff75a.png)
+
+
 
 Abstract)
 
@@ -69,6 +72,22 @@ In this mini-project, we will strengthen the edges for a number of gray images (
 
 با توجه به این کلیشه‌ها می‌توان یک تیزکردن وفقی را به این ترتیب پیاده‌سازی کرد که به هر نقطه از تصویر مبدا تمام این کلیشه‌ها را اعمال کرده و حاصل تمام فیلترهایی که از یک آستانه بزرگتر باشند را با هم جمع می‌کنیم. در آخر حاصل را به تصویر اصلی اضافه می‌کنیم.
 بر این اساس، تیزکردن تصویر به دو شکل غیروفقی و وفقی را بر روی تصاویر Im132 تا Im134 اعمال کرده و نتیجه را با هم مقایسه کنید.
+
+تصویر132:
+
+![Im132](https://user-images.githubusercontent.com/89314766/154647298-5d1422cd-7c30-4edf-9084-1ad4d2384273.png)
+
+
+تصویر133:
+
+![Im133](https://user-images.githubusercontent.com/89314766/154647414-ab6cd126-2a13-4953-b35f-725c4d43161d.png)
+
+
+تصویر134:
+
+![Im134](https://user-images.githubusercontent.com/89314766/154647530-135474bb-56a1-48af-8c51-818e20eff75a.png)
+
+
 
 خلاصه)
 
