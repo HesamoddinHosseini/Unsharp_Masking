@@ -17,3 +17,7 @@
 <img width="135" alt="Screen Shot 2022-02-18 at 11 46 51 am" src="https://user-images.githubusercontent.com/89314766/154644646-49b48aef-526f-4e0d-bcd7-8bf87c3b64fc.png">
 
 با استفاده از این کلیشه رابطه زیر می‌تواند موجب تیزشدن تصویر شود
+
+<img width="254" alt="Screen Shot 2022-02-18 at 11 47 15 am" src="https://user-images.githubusercontent.com/89314766/154644835-d7501f27-a0ea-45e9-9cf5-1d9fc2419ef2.png">
+
+کلیشه فوق را می‌توان 1/16 مجموع کلیشه‌های زیر در نظر گرفت
