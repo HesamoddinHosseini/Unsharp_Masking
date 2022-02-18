@@ -27,6 +27,13 @@ The above stereotype can be considered 1/16 of the total stereotypes
 According to these clichés, an adaptive sharpening can be implemented in such a way that we apply all these clichés to any point of the source image and add the result of all filters that are larger than a threshold. Finally, we add the result to the main image.
 Accordingly, apply the image sharpening in both non-horizontal and adaptive shapes to the images Im132 to Im134 and compare the result.
 
+IM132:
+
+IM133:
+
+IM134:
+
+
 Abstract)
 
 In this mini-project, we will strengthen the edges for a number of gray images (grayscale) by using a suitable Box Filter. For this purpose, two unsharp masking algorithms and Laplacein have been used. In the unsharp masking algorithm, simple mean smoothing filter methods, weighted mean smoothing filter and medium filter with sizes such as 3 × 3, 5 × 5, 7 × 7 and 9*9*9 are used. In the Laplacein method, we try to sharpen the edges of three grayscale images in two ways: non-conformity with one stereotype and conformity with eight stereotypes. We use Matlab to implement this project.
