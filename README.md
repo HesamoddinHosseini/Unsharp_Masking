@@ -1,4 +1,4 @@
-# Digital Image Processing (DIP),Unsharp_Masking, Min-Project 3
+# Digital Image Processing (DIP),Unsharp Masking, Min-Project 3
 
 # English
 
