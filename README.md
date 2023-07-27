@@ -47,6 +47,8 @@ Abstract)
 
 In this mini-project, we will strengthen the edges for a number of gray images (grayscale) by using a suitable Box Filter. For this purpose, two unsharp masking algorithms and Laplacein have been used. In the unsharp masking algorithm, simple mean smoothing filter methods, weighted mean smoothing filter and medium filter with sizes such as 3 × 3, 5 × 5, 7 × 7 and 9*9*9 are used. In the Laplacein method, we try to sharpen the edges of three grayscale images in two ways: non-conformity with one stereotype and conformity with eight stereotypes. We use Matlab to implement this project.
 
+Hesamoddin Hosseini
+
 # Persian:
 سوال)
 
